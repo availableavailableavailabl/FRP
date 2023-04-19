@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "y",
+    "y",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:water_bucket"
+    },
+    "y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "examplemod:waterpic"
+  }
+}
+

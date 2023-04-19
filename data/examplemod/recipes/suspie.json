@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:apple",
+      "count":3
+    }
+  ],
+  "result":
+  {
+    "item": "examplemod:yumfood",
+    "count": 65
+  }
+}

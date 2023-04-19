@@ -1,0 +1,10 @@
+{
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "examplemod:rush_e",
+        "stream": true
+      }
+    ]
+  }
+}

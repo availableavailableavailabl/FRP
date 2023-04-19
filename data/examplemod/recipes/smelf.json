@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {"item": "minecraft:wheat"},
+  "result":
+  {"item": "minecraft:apple",
+    "count":72
+  },
+  "experience": 500,
+  "cookingTime": 200}

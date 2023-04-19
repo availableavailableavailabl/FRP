@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxy",
+    "yyx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:redstone_dust"
+    },
+    "y": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "minecraft:book"
+  }
+}
+
